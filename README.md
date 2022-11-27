@@ -8,8 +8,8 @@ We can use a simple mass-spring system to represent the cloth.
 ## Dynamics
 We can choose to use implicit integral or position based dynamics to achieve the effects. 
 
-##Colision
+## Colision
 Simple SDF collision detection between ball and cloth and impulse method to response it.
 
-##Interaction
+## Interaction
 User can drag the ball by mouse to simulate the effects of collision.
