@@ -1,6 +1,6 @@
 # GAMES103-HW2
 ## Introduction
-In this case, we will see a piece of cloth fall down and collision with a ball.
+In this case, we will see a piece of cloth falling down and colliding with a ball.
 
 ## Representation
 We can use a simple mass-spring system to represent the cloth.
