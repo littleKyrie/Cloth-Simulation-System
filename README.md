@@ -37,4 +37,8 @@ Simple SDF collision detection between ball and cloth and impulse method to resp
 User can drag the ball by mouse to simulate the effects of collision.
 
 ## Effects
-<img width="413" alt="image" src="https://user-images.githubusercontent.com/53171201/209613252-691fa177-b780-44f4-928e-97ce3d1a01c0.png">
+
+
+https://user-images.githubusercontent.com/53171201/209668793-25e5e3b1-e9c7-4dbc-b603-e7f637db54ea.mov
+
+
