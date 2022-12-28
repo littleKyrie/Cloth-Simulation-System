@@ -38,7 +38,23 @@ User can drag the ball by mouse to simulate the effects of collision.
 
 ## Effects
 
+Implicit Integral
 
 https://user-images.githubusercontent.com/53171201/209668793-25e5e3b1-e9c7-4dbc-b603-e7f637db54ea.mov
 
+Comparison of PBD results for different iterations
 
+k=1
+<img width="259" alt="image" src="https://user-images.githubusercontent.com/53171201/209820514-0c18ad79-aeef-41ed-a1cb-58c73614b962.png">
+
+K=10
+<img width="254" alt="image" src="https://user-images.githubusercontent.com/53171201/209820604-5b9f6157-55d9-4b55-8620-14ec0e4c9300.png">
+
+K=20
+<img width="258" alt="image" src="https://user-images.githubusercontent.com/53171201/209820679-f11dafb9-10f2-4b33-87ba-4caf1f521fa2.png">
+
+K=32
+<img width="260" alt="image" src="https://user-images.githubusercontent.com/53171201/209820764-f9604967-81ad-4150-bf73-8f8de5876e37.png">
+
+K=100
+<img width="241" alt="image" src="https://user-images.githubusercontent.com/53171201/209820914-3c5dfe3f-f988-4003-87fc-66c76fb9f185.png">
